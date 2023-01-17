@@ -11,4 +11,6 @@ questo è un **grassetto**
 - 1
     - 2
 | primo | secondo |
-| --- | --- |
+| - - - | - - - |
+| terzo | quarto |
+
