@@ -8,9 +8,8 @@ questo è un **grassetto**
 1. secondo
 1. terzo
 
-- 1
-    - 2
 | primo | secondo |
-| - - - | - - - |
+| --- | --- |
 | terzo | quarto |
+| 
 
