@@ -4,6 +4,6 @@
 questo è un *corsivo*
 questo è un **grassetto**
 
-1 primo 
-1 secondo
-1 terzo
+1. primo 
+1. secondo
+1. terzo
